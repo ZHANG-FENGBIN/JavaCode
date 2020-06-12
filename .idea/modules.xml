@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aitheima/aitheima.iml" filepath="$PROJECT_DIR$/aitheima/aitheima.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pet/pet.iml" filepath="$PROJECT_DIR$/pet/pet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/studentManager/studentManager.iml" filepath="$PROJECT_DIR$/studentManager/studentManager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zhang_anli2/zhang_anli2.iml" filepath="$PROJECT_DIR$/zhang_anli2/zhang_anli2.iml" />
+    </modules>
+  </component>
+</project>
